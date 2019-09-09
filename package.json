@@ -1,7 +1,7 @@
 {
   "name": "hyper-propane-propane",
   "version": "1.0.0",
-  "description": "A hyper theme ",
+  "description": "A hyper theme and tribute for Mr. Lahey",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
