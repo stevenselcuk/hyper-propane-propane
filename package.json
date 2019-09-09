@@ -1,0 +1,24 @@
+{
+  "name": "hyper-propane-propane",
+  "version": "1.0.0",
+  "description": "A hyper theme ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenselcuk/hyper-propane-propane.git"
+  },
+  "keywords": [
+    "Hyper",
+    "syntax",
+    "theme"
+  ],
+  "author": "Steven J. Selcuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevenselcuk/hyper-propane-propane/issues"
+  },
+  "homepage": "https://github.com/stevenselcuk/hyper-propane-propane#readme"
+}
