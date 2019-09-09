@@ -1,28 +1,30 @@
 
-const backgroundColor = '#362E65';
+const backgroundColor = '#38003C';
 const foregroundColor = '#FF444D';
 const cursorColor = foregroundColor;
 const borderColor = backgroundColor;
 
 const colors = {
   black       : backgroundColor,
-  red         : '#0EF984', // red
+  red         : '#E11C72', // red
   green       : '#0EF984', // green
   yellow      : '#F5CB09', // yellow
   blue        : '#16B4CC', // blue
   magenta     : '#59199E', // pink
   cyan        : '#56b6c2', // cyan
-  white       : '#E2E2E5', // light gray
-  lightBlack  : '#373F48', // medium gray
+  white       : '#ffffff', // light gray
+  lightBlack  : '#E2E2E5', // medium gray
   lightRed    : '#E11C72', // red
-  lightGreen  : '#00FF85', // green
-  lightYellow : '#E1A11F', // yellow
-  lightBlue   : '#31DBF0', // blue
-  lightMagenta: '#E92C8B', // pink
+  lightGreen  : '#0EF984', // green
+  lightYellow : '#F5CB09', // yellow
+  lightBlue   : '#16B4CC', // blue
+  lightMagenta: '#59199E', // pink
   lightCyan   : '#6200FF', // cyan
   colorCubes  : '#ffffff', // white
   grayscale   : foregroundColor
 };
+
+
 
 exports.decorateConfig = config => {
   return Object.assign({}, config, {
